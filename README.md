@@ -43,11 +43,4 @@ This opens:
 
 ```bash
 cd ~/Library/Application\ Support/Übersicht/widgets
-git clone https://github.com/YOUR_USERNAME/übersicht-bitcoin-halving-widget.git bitcoin-halving.widget
-
-
-### 4. Final Steps 
-
-In the Übersicht menu, click “Refresh All Widgets”
-
-The Bitcoin block + halving countdown will appear!
+git clone https://github.com/ilghan/-bersicht-bitcoin-halving-widget.git bitcoin-halving.widget
